@@ -1,4 +1,4 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Monospaced&weight=600&size=30&pause=2000&color=C9D1D9&background=FFFFFF00&width=500&lines=Hi+there+%F0%9F%91%8B+I'm+Jose+Duran" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Monospaced&weight=600&size=30&pause=2000&color=C9D1D9&background=FFFFFF00&center=true&width=1000&lines=Hi+there+%F0%9F%91%8B+I'm+Jose+Duran" alt="Typing SVG" /></a>
 
 <!--
 **wizard503/wizard503** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
