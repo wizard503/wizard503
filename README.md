@@ -3,7 +3,7 @@
 <!--a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.cNoto Sans Adlam Unjoined om?font=Poppins&weight=600&size=30&pause=2000&color=C9D1D9&background=FFFFFF00&center=true&width=1006&lines=Hi+there+%F0%9F%91%8B+I'm+Jose+Duran+%F0%9F%94%AD" alt="Typing SVG" /></a-->
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Mukta&weight=600&size=38&pause=2000&color=C9D1D9&center=true&width=1000&height=80&lines=Hi+there+%F0%9F%91%8B+I'm+Jose+Duran+%F0%9F%94%AD" alt="Typing SVG" /></a>
-
+#Hi there 👋 I'm Jose Duran 🔭
 <!--
 **wizard503/wizard503** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
