@@ -4,8 +4,6 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Mukta&weight=600&size=35&pause=2000&color=C9D1D9&center=true&width=1000&height=80&lines=Hi+there+%F0%9F%91%8B+I'm+Jose+Duran+%F0%9F%94%AD" alt="Typing SVG" /></a>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Mukta&weight=700&size=35&pause=2000&color=C9D1D9&center=true&width=1000&height=80&lines=Hi+there+%F0%9F%91%8B+I'm+Jose+Duran+%F0%9F%94%AD" alt="Typing SVG" /></a>
-
 
 # Hi there 👋 I'm Jose Duran 🔭
 <!--
