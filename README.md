@@ -4,8 +4,10 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Mukta&weight=600&size=37&pause=2000&color=C9D1D9&center=true&width=1000&height=80&lines=Hi+there+%F0%9F%91%8B+I'm+Jose+Duran+%F0%9F%94%AD" alt="Typing SVG" /></a>
 ---
-![cover](https://user-images.githubusercontent.com/71104391/217061760-8bc27308-63ce-4254-971e-0b2094a2e705.png)
+![cover](https://user-images.githubusercontent.com/71104391/217142351-97c826b0-aedd-491d-af59-ee3ae8e4e9c0.png)
+
 ---
+
 <!--
 **wizard503/wizard503** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
