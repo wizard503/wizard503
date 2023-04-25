@@ -2,10 +2,13 @@
 
 <!--a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.cNoto Sans Adlam Unjoined om?font=Poppins&weight=600&size=30&pause=2000&color=C9D1D9&background=FFFFFF00&center=true&width=1006&lines=Hi+there+%F0%9F%91%8B+I'm+Jose+Duran+%F0%9F%94%AD" alt="Typing SVG" /></a-->
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Mukta&weight=600&size=37&pause=2000&color=C9D1D9&center=true&width=1000&height=80&lines=Hi+there+%F0%9F%91%8B+I'm+Jose+Duran+%F0%9F%94%AD" alt="Typing SVG" /></a>
----
+<!--a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Mukta&weight=600&size=37&pause=2000&color=C9D1D9&center=true&width=1000&height=80&lines=Hi+there+%F0%9F%91%8B+I'm+Jose+Duran+%F0%9F%94%AD" alt="Typing SVG" /></a-->
+
 <!--![cover](https://user-images.githubusercontent.com/71104391/217307793-15550e29-b177-462f-8f60-e7d55e07cbce.png)-->
-![cover](https://user-images.githubusercontent.com/71104391/217314713-a7542202-4a91-4d5d-be9a-c0406ecd8b07.gif)
+<!--![cover](https://user-images.githubusercontent.com/71104391/217314713-a7542202-4a91-4d5d-be9a-c0406ecd8b07.gif)-->
+
+![Header](https://user-images.githubusercontent.com/71104391/234426797-4e8202bc-62b3-4b01-b131-c65ff1866d42.png)
+
 
 ---
 
