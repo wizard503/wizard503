@@ -1,0 +1,12 @@
+
+name: Metrics-3D
+description: Generate profile 3D Contributions
+author: wizard503
+
+runs:
+  using: 'node16'
+  main: 'dist/index.js'
+
+branding:
+  icon: 'box'
+  color: 'green'
