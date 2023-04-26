@@ -1,5 +1,5 @@
 name: Full-year calendar
-uses: lowlighter/metrics@latest
+uses: wizard503/wizard503@latest
 with:
   filename: metrics.plugin.isocalendar.fullyear.svg
   token: ${{ secrets.TOKEN }}
