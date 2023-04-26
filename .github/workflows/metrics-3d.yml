@@ -13,8 +13,8 @@ jobs:
       - uses: actions/checkout@v1
       - uses: wizard503/wizard503@v1.0.0
         env:
-          GITHUB_TOKEN: ${{ secrets.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 }}
-          USERNAME: ${{ github.wizard503 }}
+           GITHUB_TOKEN: ${{ secrets.TOKEN }}
+           USERNAME: ${{ github.repository_owner }}
       - name: Commit & Push
         run: |
           git config user.name github-actions
