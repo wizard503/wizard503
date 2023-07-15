@@ -15,7 +15,7 @@
 </table> 
 
 I am a kind of full stack developer, I have knowledge about databases, backend, and other methodologies, but what I like the most is frontend, web development, and interface design.
-
+- 🚀 All of my projects are available in **[my portfolio](https://joseduran.me/)** 
 - 💻 I **design and develop interfaces focused on users**
 - ❤️ I love **tech, coffee and rain**
 - 🌱 Always learning **Web development, UI/UX design as well as backend development**
