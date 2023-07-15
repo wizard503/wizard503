@@ -10,8 +10,8 @@
 ![Header](https://user-images.githubusercontent.com/71104391/234426797-4e8202bc-62b3-4b01-b131-c65ff1866d42.png)
 ---
 <table align="right">
- <tr><td><a href="https://github.com/Carol42/Carol42/blob/main/README.md"><img src="https://cdn-icons-png.flaticon.com/512/323/323310.png" alt="US flag" width="17px"> English</a></td></tr>
- <tr><td><a href="https://github.com/Carol42/Carol42/blob/main/README-pt-br.md"><img src="https://cdn.icon-icons.com/icons2/1531/PNG/512/3253482-flag-spain-icon_106784.png" alt="Brazil flag" width="17px"> Spanish</a></td></tr>
+ <tr><td><a href="https://github.com/wizard503/wizard503/blob/main/README.md"><img src="https://cdn-icons-png.flaticon.com/512/323/323310.png" alt="US flag" width="17px"> English</a></td></tr>
+ <tr><td><a href="https://github.com/wizard503/wizard503/blob/main/README-es.md"><img src="https://cdn.icon-icons.com/icons2/1531/PNG/512/3253482-flag-spain-icon_106784.png" alt="Brazil flag" width="17px"> Spanish</a></td></tr>
 </table> 
 
 I am a kind of full stack developer, I have knowledge about databases, backend, and other methodologies, but what I like the most is frontend, web development, and interface design.
