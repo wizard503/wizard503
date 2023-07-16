@@ -7,7 +7,7 @@
 <!--![cover](https://user-images.githubusercontent.com/71104391/217307793-15550e29-b177-462f-8f60-e7d55e07cbce.png)-->
 <!--![cover](https://user-images.githubusercontent.com/71104391/217314713-a7542202-4a91-4d5d-be9a-c0406ecd8b07.gif)-->
 
-![Header](https://user-images.githubusercontent.com/71104391/234426797-4e8202bc-62b3-4b01-b131-c65ff1866d42.png)
+![Header](https://github.com/wizard503/wizard503/assets/71104391/1f7c5391-ba4b-4fa9-895d-0b476d3a76ea)
 ---
 <table align="right">
  <tr><td><a href="https://github.com/wizard503/wizard503/blob/main/README.md"><img src="https://cdn-icons-png.flaticon.com/512/323/323310.png" alt="Bandera USA" width="17px"> Inglés</a></td></tr>
